@@ -12,11 +12,11 @@ msgstr "Kotti social buttons Einstellungen"
 
 #: kotti_socialbuttons/populate.py:31
 msgid "Settings for kotti_socialbuttons"
-msgstr "Einstellungen für kotti_socialbuttons"
+msgstr "Einstellungen kotti_socialbuttons"
 
 #: kotti_socialbuttons/populate.py:32
 msgid "Successfully saved social buttons settings."
-msgstr "Einstellungen für social buttons gespeichert."
+msgstr "Einstellungen social buttons gespeichert."
 
 #: kotti_socialbuttons/populate.py:9
 msgid "Facebook"
