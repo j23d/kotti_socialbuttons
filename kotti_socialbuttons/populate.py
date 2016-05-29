@@ -6,16 +6,6 @@ from kotti_settings.util import add_settings
 from kotti_socialbuttons import _
 
 
-class IncludeSocialSharePrivacySchemaNode(colander.SchemaNode):
-    name = 'include_social'
-    title = _(u'Include Social Share Privacy')
-    description = _(u'Include social media buttons in the blog '
-                    u'entry view. Currently facebook, twitter and '
-                    u'Google+ are included.')
-    missing = True
-    default = True
-
-
 social_media_buttons = ((u'facebook', _(u'Facebook')),
                         (u'twitter', _(u'Twitter')),
                         (u'google', _(u'Goolge+')),

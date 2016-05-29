@@ -1,0 +1,31 @@
+#: kotti_socialbuttons/populate.py:17
+msgid "Social media buttons"
+msgstr "Social media buttons"
+
+#: kotti_socialbuttons/populate.py:18
+msgid "Enable only specific social media buttons."
+msgstr "Aktiviere nur bestimmte social media buttons."
+
+#: kotti_socialbuttons/populate.py:30
+msgid "Kotti social buttons settings"
+msgstr "Kotti social buttons Einstellungen"
+
+#: kotti_socialbuttons/populate.py:31
+msgid "Settings for kotti_socialbuttons"
+msgstr "Einstellungen für kotti_socialbuttons"
+
+#: kotti_socialbuttons/populate.py:32
+msgid "Successfully saved social buttons settings."
+msgstr "Einstellungen für social buttons gespeichert."
+
+#: kotti_socialbuttons/populate.py:9
+msgid "Facebook"
+msgstr "Facebook"
+
+#: kotti_socialbuttons/populate.py:10
+msgid "Twitter"
+msgstr "Twitter"
+
+#: kotti_socialbuttons/populate.py:11
+msgid "Goolge+"
+msgstr "Goolge+"
