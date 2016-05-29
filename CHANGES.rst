@@ -1,7 +1,7 @@
 History
 =======
 
-0.1 - unreleased
-----------------
+0.1-alpha.1 - 2016-05-29
+------------------------
 
-- Create package with ``pcreate -s kotti kotti_socialbuttons``.
+- Initial release.
