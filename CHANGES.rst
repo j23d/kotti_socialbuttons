@@ -1,7 +1,7 @@
 History
 =======
 
-0.1-alpha.2 - Unreleased
+0.1-alpha.2 - 2016-05-29
 ------------------------
 
 - Added german translations.
