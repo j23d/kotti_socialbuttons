@@ -23,7 +23,6 @@ def kotti_configure(settings):
     """
 
     settings['pyramid.includes'] += ' kotti_socialbuttons'
-    settings['kotti.alembic_dirs'] += ' kotti_socialbuttons:alembic'
     settings['kotti.populators'] += ' kotti_socialbuttons.populate.populate_settings'
     settings['kotti.fanstatic.view_needed'] += ' kotti_socialbuttons.fanstatic.view_css_and_js'
 
