@@ -18,8 +18,8 @@ Add `<div class="socialshareprivacy" />` to the template of your content type, w
 .. |license| image:: https://img.shields.io/pypi/l/kotti_socialbuttons.svg?style=flat-square
 .. _license: http://www.repoze.org/LICENSE.txt
 
-.. |build_status_stable| image:: https://img.shields.io/travis/j23d/kotti_socialbuttons/production.svg?style=flat-square
-.. _build_status_stable: http://travis-ci.org/j23d/kotti_socialbuttons
+.. |build_status_master| image:: https://img.shields.io/travis/j23d/kotti_socialbuttons/master.svg?style=flat-square
+.. _build_status_master: http://travis-ci.org/j23d/kotti_socialbuttons
 
 `Find out more about Kotti`_
 
@@ -39,11 +39,6 @@ To enable the extension in your Kotti site, activate the configurator::
 
 Development
 ===========
-
-|build_status_master|_
-
-.. |build_status_master| image:: https://img.shields.io/travis/j23d/kotti_socialbuttons/master.svg?style=flat-square
-.. _build_status_master: http://travis-ci.org/j23d/kotti_socialbuttons
 
 Contributions to kotti_socialbuttons are highly welcome.
 Just clone its `Github repository`_ and submit your contributions as pull requests.
