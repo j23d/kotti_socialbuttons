@@ -1,7 +1,7 @@
 History
 =======
 
-0.1-beta.1 - 2016-07-11
+0.1-alpha.3 - 2016-07-11
 -----------------------
 
 - Removed alembic configuration settings.
