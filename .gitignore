@@ -30,3 +30,7 @@ sdist/
 target/
 var/
 kotti_socialbuttons.db
+pip-selfcheck.json
+local/
+include/
+bin/
