@@ -7,7 +7,7 @@ Add `<div class="socialshareprivacy" />` to the template of your content type, w
 |pypi|_
 |downloads_month|_
 |license|_
-|build_status_stable|_
+|build_status_master|_
 
 .. |pypi| image:: https://img.shields.io/pypi/v/kotti_socialbuttons.svg?style=flat-square
 .. _pypi: https://pypi.python.org/pypi/kotti_socialbuttons/
