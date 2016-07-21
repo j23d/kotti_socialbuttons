@@ -1,6 +1,5 @@
 recursive-include kotti_socialbuttons/locale *
 recursive-include kotti_socialbuttons/static *
-recursive-include kotti_socialbuttons/templates *
 recursive-include kotti_socialbuttons/tests *
 recursive-include kotti_socialbuttons/views *
 prune local
